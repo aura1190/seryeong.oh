@@ -1,0 +1,6 @@
+C:\Users\seryeong.oh\Desktop\Semisysco\3. SW\2. C#\Interface\Test2\Test2\bin\Debug\Test2.exe.config
+C:\Users\seryeong.oh\Desktop\Semisysco\3. SW\2. C#\Interface\Test2\Test2\bin\Debug\Test2.exe
+C:\Users\seryeong.oh\Desktop\Semisysco\3. SW\2. C#\Interface\Test2\Test2\bin\Debug\Test2.pdb
+C:\Users\seryeong.oh\Desktop\Semisysco\3. SW\2. C#\Interface\Test2\Test2\obj\Debug\Test2.exe
+C:\Users\seryeong.oh\Desktop\Semisysco\3. SW\2. C#\Interface\Test2\Test2\obj\Debug\Test2.pdb
+C:\Users\seryeong.oh\Desktop\Semisysco\3. SW\2. C#\Interface\Test2\Test2\obj\Debug\Test2.csprojResolveAssemblyReference.cache

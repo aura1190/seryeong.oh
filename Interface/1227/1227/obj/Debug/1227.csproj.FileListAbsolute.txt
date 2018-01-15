@@ -1,0 +1,6 @@
+C:\Users\seryeong.oh\Desktop\Semisysco\3. SW\2. C#\Interface\1227\1227\bin\Debug\1227.exe.config
+C:\Users\seryeong.oh\Desktop\Semisysco\3. SW\2. C#\Interface\1227\1227\bin\Debug\1227.exe
+C:\Users\seryeong.oh\Desktop\Semisysco\3. SW\2. C#\Interface\1227\1227\bin\Debug\1227.pdb
+C:\Users\seryeong.oh\Desktop\Semisysco\3. SW\2. C#\Interface\1227\1227\obj\Debug\1227.csprojResolveAssemblyReference.cache
+C:\Users\seryeong.oh\Desktop\Semisysco\3. SW\2. C#\Interface\1227\1227\obj\Debug\1227.exe
+C:\Users\seryeong.oh\Desktop\Semisysco\3. SW\2. C#\Interface\1227\1227\obj\Debug\1227.pdb
